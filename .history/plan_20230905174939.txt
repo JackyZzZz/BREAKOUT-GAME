@@ -1,0 +1,4 @@
+1. Create canvas context
+2. Create and draw ball
+3. Create and draw paddle
+4. Create bricks
